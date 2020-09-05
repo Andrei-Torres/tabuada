@@ -42,9 +42,8 @@ p{
 }
 
 #inputButton{
-    font-weight: bold;
     border-radius: 5px;
-    background-color: rgba(129, 253, 5, 0.774);
+    background-color: #c09787cc;
 }
 
 
